@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dog-Breed-App/static/css/main.e6c13ad2.css",
+    "main.js": "/Dog-Breed-App/static/js/main.19611583.js",
+    "index.html": "/Dog-Breed-App/index.html",
+    "main.e6c13ad2.css.map": "/Dog-Breed-App/static/css/main.e6c13ad2.css.map",
+    "main.19611583.js.map": "/Dog-Breed-App/static/js/main.19611583.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.19611583.js"
+  ]
+}
